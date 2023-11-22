@@ -1,0 +1,12 @@
+{
+  "hello": "Salom",
+  "whatToWatch": "Nima ko'rishni istaysiz?",
+  "search": "Qidirish",
+  "watchList": "Saqlangan filmlar",
+  "home" : "Asosiy",
+  "searchMovieTitle" : "Film nomi orqali qidiring",
+  "save" : "Saqlanganlar",
+  "notFound" : "Kechirasiz film topilmadi :(",
+  "detail" : "Malumot",
+  "noMovie" : "Hozzircha kino yo'q"
+}
